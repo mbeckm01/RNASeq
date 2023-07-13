@@ -13,7 +13,8 @@ slurm script to convert sam to bam files and sort the bam files for human plaque
 ### brush_sort_bam.slurm: 
 slurm script to convert brush biopsies from sam to bam and sort
 
-### featurecountscommandtrimmed.txt: command used to run featurecounts on RNASeq data
+### featurecountscommandtrimmed.txt: 
+command used to run featurecounts on RNASeq data
 
 ### deseq_commands.R: 
 R script used to run DESeq2 on human brush/plaque samples, annotate dataset, and return differentially expressed genes, go ters, and kegg pathways
